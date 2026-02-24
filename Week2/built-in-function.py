@@ -11,6 +11,7 @@ min()
 max()
 sum()
 str()
+range()
 '''
 
 #print function displays the provided input
@@ -33,3 +34,7 @@ country = 'Finland'
 fullname = (Firstname + ' ' + Lastname)
 
 print(f'I am {fullname}, I am {age} years old this year. I live in {country} now and my favourite hobby is {hobby}.')
+
+#Comparison operators
+#logical operators
+#Conditions

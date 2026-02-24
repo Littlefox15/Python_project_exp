@@ -50,3 +50,9 @@ print(4 < 3 or 2 < 3)
 
 print(not 4 > 3)
 print(not not 4 > 3)
+
+print('F' in 'Finland')
+print('land' in 'Finland')
+print('P' in 'P','y','t','h','o','n')
+
+print('Lord' in 'Lord of the rings')
